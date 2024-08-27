@@ -1,0 +1,40 @@
+<html>
+<head></head>
+<body>
+
+
+<h1>Elephant</h1>
+<h2>Hello</h2>
+<h3>Hello</h3>
+<h4>Hello</h4>
+<h5>Hello</h5>
+<h6>Hello</h6>
+<hr>
+<!-- This is a comment -->
+<p>This is a paragraph</p>
+<pre>this     is a paragraph       okay</pre>
+<b>Input</b>
+<strong>Bankai</strong>
+<i>Text</i>
+<mark>Text</mark>
+<del>text</del>
+<ins>Bye</ins>
+<u>Bye<u>
+<hr>
+<p>I am learning <u>HTML</u></P>
+
+
+
+
+
+
+
+<em>Text</em>
+
+
+
+
+
+
+</body>
+</html>
